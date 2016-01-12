@@ -8,7 +8,7 @@ I have been blessed with a natural interest and ability in all areas of  IT.  Ov
 
 The Makers Academy course has encouraged me to keep coding with a energetic and positive attitude. I am so excited to be able to get to a stage where I can contribute to the development community through open-source projects. When I started at Makers Academy, I was nervous and unconfident about programing. However within just 16 weeks I can confidently build an end-to-end web app. Although I am more self-sufficient using Ruby-on-Rails, I also can uses other frame works like Sinatra and angular.js. I have proven my ability to pick up a new technology and continue my programing Career with confidence.
 
-**Some of my projects**
+**Some of my Github projects**
 
 - Instagram - A clone of Instagram built using      Ruby-on-Rails.
 - Todo Manager - A todo list manager built using the Angular.js framework.
