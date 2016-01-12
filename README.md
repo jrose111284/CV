@@ -6,7 +6,7 @@ I have been blessed with a natural interest and ability in all areas of  IT.  Ov
 
 #### junior Web Developer
 
-The Makers Academy course has encouraged me to keep coding with a energetic and positive attitude. I am so excited to be able to get to a stage where I can contribute to the development community through open-source projects. When I started at Makers Academy, I was nervous and unconfident about programing. However within just 16 weeks I can confidently build an end-to-end web app. Although I am more self-sufficient using Ruby-on-Rails, I also can uses other frame works like Sinatra and angular.js. I have proven my ability to pick up a new technology and continue my programing Career with confidence.
+The Makers Academy course has encouraged me to keep coding with a energetic and positive attitude. I am so excited to be able to get to a stage where I can contribute to the development community through open-source projects. When I started at Makers Academy, I was nervous and unconfident about programing. However within just 16 weeks I can confidently build an end-to-end web app. Although I am more self-sufficient using Ruby-on-Rails, I can also uses other frame works like Sinatra and angular.js. I have proven my ability to pick up a new technology and continue my programing Career with confidence.
 
 **Some of my Github projects**
 
@@ -42,10 +42,9 @@ The Makers Academy course has encouraged me to keep coding with a energetic and 
 **Dream toppings** (Oct 2010 – July 2013)   
 *Working in a family owned business where my duties were delivering to shops and to private clients throughout the country. I also helped out in the bakery and on occasion in the one of the shops.*  
 
-**Computer place, Southampton ** (April 2008 – September 2010)   
+**Computer place, Southampton** (April 2008 – September 2010)   
 *This was meant as a short time position that ended up being over a few year’s work. I worked with “Cerco” and after 3 months became responsible for the opening and closing of the shop, dealing with walk in customers, phone calls and home repair visits.
-My experience included the re-soldering of DC sockets onto motherboards, reinstalling OS systems with drivers, data and email back up, setting up routers and printers, general repairs and virus removal plus an array of network issues.
-*
+My experience included the re-soldering of DC sockets onto motherboards, reinstalling OS systems with drivers, data and email back up, setting up routers and printers, general repairs and virus removal plus an array of network issues.*
 
 **Royal Navy** (March 2002 – Jan 2006)    
 *I was a operating mechanic stationed in several navy bases over the course
